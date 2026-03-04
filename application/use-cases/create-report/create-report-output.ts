@@ -1,0 +1,3 @@
+type ReportOutput = {
+    id: string;
+}
