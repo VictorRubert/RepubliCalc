@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "start": "npx ts-node-dev --respawn --transpile-only main.ts"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
